@@ -1,0 +1,16 @@
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.exe
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.deps.json
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.runtimeconfig.json
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.runtimeconfig.dev.json
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.dll
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\ref\Delegates_and_Lambdas.dll
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\bin\Debug\net5.0\Delegates_and_Lambdas.pdb
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.csproj.AssemblyReference.cache
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.AssemblyInfoInputs.cache
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.AssemblyInfo.cs
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.dll
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\ref\Delegates_and_Lambdas.dll
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.pdb
+C:\Users\102392424\OneDrive - Swinburne University\Delegates and Lambdas\Delegates_and_Lambdas\obj\Debug\net5.0\Delegates_and_Lambdas.genruntimeconfig.cache
